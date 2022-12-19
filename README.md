@@ -69,6 +69,8 @@ behaviors:
 
 - Далее запускаем обучение модели:
 
+![image](https://user-images.githubusercontent.com/114469025/208480239-9cedf40c-0e9d-4a1b-9a12-dc7761f253e4.png)
+
 Шарик начинает двигаться от одного кубика к другому.
 
 ![image](https://user-images.githubusercontent.com/114469025/208475491-2d849baa-c793-4f5f-86ec-dee72eed7d4d.png)
