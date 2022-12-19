@@ -103,6 +103,16 @@ pip install tensorflow
 ![image](https://user-images.githubusercontent.com/114469025/208483651-851055b5-fb8d-473e-9ddb-25fac46f6998.png)
 ![image](https://user-images.githubusercontent.com/114469025/208483884-5b2f9ff6-2bca-42df-a68b-098d3894361e.png)
 
+### Изменить параметры файла yaml-агента, определить какие параметры и как влияют на обучение модели. Описать результаты, выведенные в TensorBoard.
+
+Изменим параметр num_layers с 2 на 3:
+
+Изменим параметр batch_size с 1024 на 2048:
+
+Изменим параметр epsilon с 0.2 на 0.3:
+
+Изменим параметр lambd с 0.95 на 0.8:
+
 
 ## Задание 2
 ### Опишите результаты, выведенные в TensorBoard.
