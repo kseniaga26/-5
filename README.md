@@ -92,6 +92,9 @@ behaviors:
 pip install tensorflow
 
 ```
+![image](https://user-images.githubusercontent.com/114469025/208482921-a6fa8681-5d90-403e-ac34-217d7d43da7c.png)
+![image](https://user-images.githubusercontent.com/114469025/208482952-c0be5dbf-85a0-4ccb-b234-7810805239e3.png)
+
 - После завершения установки запустим TensorBoard и рассмотрим полученные графики стандартного агента:
 
 
