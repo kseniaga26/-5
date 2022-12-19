@@ -101,6 +101,7 @@ pip install tensorflow
 ![image](https://user-images.githubusercontent.com/114469025/208483396-014695fd-3777-4938-9dd3-378555c22c83.png)
 ![image](https://user-images.githubusercontent.com/114469025/208483541-8039c8e7-8d6d-49ee-9054-d22eb7c0ea63.png)
 ![image](https://user-images.githubusercontent.com/114469025/208483651-851055b5-fb8d-473e-9ddb-25fac46f6998.png)
+![image](https://user-images.githubusercontent.com/114469025/208483884-5b2f9ff6-2bca-42df-a68b-098d3894361e.png)
 
 
 ## Задание 2
