@@ -20,6 +20,8 @@
 
 - Откроем проект юнити:
 
+![image](https://user-images.githubusercontent.com/114469025/208484905-9c6c54c4-b182-44a1-b680-89ea50efa337.png)
+
 - Перед тем как перейти к началу обучения, запустим Anaconda Prompt и создадим виртуальное пространство с помощью следующих команд:
 ```
 conda create -n MLAgents python=3.6
