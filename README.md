@@ -83,6 +83,8 @@ behaviors:
 
 - Чтобы ускорить процесс обучения – увеличим количество префабов TargetAreaEconomic до 12 и снова запустим обучение:
 
+![image](https://user-images.githubusercontent.com/114469025/208480438-b089ed6f-83cb-4b0f-a864-2b6a0ed5aff4.png)
+![image](https://user-images.githubusercontent.com/114469025/208480471-2a789d11-2921-448e-a78f-c3bb5048c00b.png)
 
 - Далее построим графики для оценки результатов обучения. Для этого установим библиотеку TensorBoard с помощью следующей команды:
 ```
