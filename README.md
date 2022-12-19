@@ -79,20 +79,20 @@ behaviors:
 
 ![image](https://user-images.githubusercontent.com/114469025/208475542-d6e0ceb4-049c-493f-bc84-1036e304bcd7.png)
 
-По завершении обучения файлы сохранились.
-
-![image](https://user-images.githubusercontent.com/114469025/208476018-2bba1695-bfa1-492e-82c8-ea0e56bb45e2.png)
-
 - Чтобы ускорить процесс обучения – увеличим количество префабов TargetAreaEconomic до 12 и снова запустим обучение:
 
 ![image](https://user-images.githubusercontent.com/114469025/208480438-b089ed6f-83cb-4b0f-a864-2b6a0ed5aff4.png)
 ![image](https://user-images.githubusercontent.com/114469025/208480471-2a789d11-2921-448e-a78f-c3bb5048c00b.png)
 
+- По завершении обучения файлы сохранились.
+
+![image](https://user-images.githubusercontent.com/114469025/208476018-2bba1695-bfa1-492e-82c8-ea0e56bb45e2.png)
+
+
 - Далее построим графики для оценки результатов обучения. Для этого установим библиотеку TensorBoard с помощью следующей команды:
+
 ```
-
 pip install tensorflow
-
 ```
 ![image](https://user-images.githubusercontent.com/114469025/208482921-a6fa8681-5d90-403e-ac34-217d7d43da7c.png)
 ![image](https://user-images.githubusercontent.com/114469025/208482952-c0be5dbf-85a0-4ccb-b234-7810805239e3.png)
