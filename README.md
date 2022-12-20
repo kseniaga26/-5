@@ -143,3 +143,28 @@ pip install tensorflow
 
 ## Выводы
 
+
+![image](https://user-images.githubusercontent.com/114469025/208624313-4d958c00-eb23-4c47-b02f-1e46c6b419e9.png)
+
+![image](https://user-images.githubusercontent.com/114469025/208624517-600fa486-d226-4d35-8b9b-fd798142807e.png)
+![image](https://user-images.githubusercontent.com/114469025/208624906-8fe3e942-4684-4508-9b0a-62ac6547fdd2.png)
+![image](https://user-images.githubusercontent.com/114469025/208624936-8650bc1f-97ca-44ef-b75e-4b5bb7ccf866.png)
+
+![image](https://user-images.githubusercontent.com/114469025/208625186-eef2e2b4-3d0c-4a5a-9a4b-ed3ca7bb43f3.png)
+![image](https://user-images.githubusercontent.com/114469025/208625248-ea2d66d2-418a-4cba-9605-5a457023716e.png)
+
+0.8
+![image](https://user-images.githubusercontent.com/114469025/208625755-b5f64c92-3ce9-4f81-9249-e4815063d1d9.png)
+![image](https://user-images.githubusercontent.com/114469025/208625796-516505e2-078e-4bb8-9399-076c785b43b1.png)
+
+hidden_units: 128 - 100
+![image](https://user-images.githubusercontent.com/114469025/208626323-4b1c9152-c042-4b57-84cb-52a6a9a2e64a.png)
+
+![image](https://user-images.githubusercontent.com/114469025/208626288-80c5a3d4-d222-4922-8a82-e0612cd14fae.png)
+
+
+Изменим параметр num_layers с 2 на 20:
+
+Изменим параметр batch_size с 1024 на 2048:
+
+![image](https://user-images.githubusercontent.com/114469025/208626997-9b0d6882-e167-4293-b058-182db9718b1f.png)
