@@ -107,14 +107,30 @@ pip install tensorflow
 
 ### Изменить параметры файла yaml-агента, определить какие параметры и как влияют на обучение модели. Описать результаты, выведенные в TensorBoard.
 
-Изменим параметр num_layers с 2 на 3:
+- При изменении параметра num_layers с 2 на 3:
+Получаем такие графики: 
 
-Изменим параметр batch_size с 1024 на 2048:
+![image_10](https://user-images.githubusercontent.com/103308669/204276865-43d751a2-b9b0-4a73-b412-48fa62e2fc76.png)
 
-Изменим параметр epsilon с 0.2 на 0.3:
+- При изменении параметра batch_size с 1024 на 2048: 
+Получаем графики: 
 
-Изменим параметр lambd с 0.95 на 0.8:
+![image_13](https://user-images.githubusercontent.com/103308669/204277035-27aeb253-b186-43f0-99c2-08dc8d82db01.png)
 
+- При изменении параметра epsilon с 0.2 на 0.3:
+Получаем графики:
+
+![image_16](https://user-images.githubusercontent.com/103308669/204277237-ead67d96-1296-493b-8489-86133fd8a419.png)
+
+- При изменении параметра buffer_size с 10240 до 100:
+Получаем графики:
+
+![buffer_size](https://user-images.githubusercontent.com/103308669/204294656-ab36e157-56cf-4ec0-b964-f0347c3b83b9.png)
+
+- При изменении параметра lambd с 0.95 на 0.8:
+Получаем графики:
+
+![image_19](https://user-images.githubusercontent.com/103308669/204299228-cb51112e-8b51-4e8a-8751-c84a8fb02ad0.png)
 
 ## Задание 2
 ### Опишите результаты, выведенные в TensorBoard.
