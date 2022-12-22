@@ -97,23 +97,10 @@ pip install tensorflow
 ![image](https://user-images.githubusercontent.com/114469025/208482921-a6fa8681-5d90-403e-ac34-217d7d43da7c.png)
 ![image](https://user-images.githubusercontent.com/114469025/208482952-c0be5dbf-85a0-4ccb-b234-7810805239e3.png)
 
-- После завершения установки запустим TensorBoard и рассмотрим полученные графики стандартного агента:
+- После завершения установки запустим TensorBoard и рассмотрим полученные графики:
 
-![image](https://user-images.githubusercontent.com/114469025/208483160-b85596c0-9974-4dd7-9801-d2244f0d5914.png)
-![image](https://user-images.githubusercontent.com/114469025/208483396-014695fd-3777-4938-9dd3-378555c22c83.png)
-![image](https://user-images.githubusercontent.com/114469025/208483541-8039c8e7-8d6d-49ee-9054-d22eb7c0ea63.png)
-![image](https://user-images.githubusercontent.com/114469025/208483651-851055b5-fb8d-473e-9ddb-25fac46f6998.png)
-![image](https://user-images.githubusercontent.com/114469025/208483884-5b2f9ff6-2bca-42df-a68b-098d3894361e.png)
------
-
-![image](https://user-images.githubusercontent.com/114469025/208624313-4d958c00-eb23-4c47-b02f-1e46c6b419e9.png)
-
-![image](https://user-images.githubusercontent.com/114469025/208624517-600fa486-d226-4d35-8b9b-fd798142807e.png)
-![image](https://user-images.githubusercontent.com/114469025/208624906-8fe3e942-4684-4508-9b0a-62ac6547fdd2.png)
-![image](https://user-images.githubusercontent.com/114469025/208624936-8650bc1f-97ca-44ef-b75e-4b5bb7ccf866.png)
-
-![image](https://user-images.githubusercontent.com/114469025/208625186-eef2e2b4-3d0c-4a5a-9a4b-ed3ca7bb43f3.png)
-![image](https://user-images.githubusercontent.com/114469025/208625248-ea2d66d2-418a-4cba-9605-5a457023716e.png)
+![image_6](https://user-images.githubusercontent.com/103308669/204276023-8af189e6-118f-4435-988a-fd7727484f35.png)
+![image_7](https://user-images.githubusercontent.com/103308669/204276045-8c6aa36e-d6b3-44c4-b1ac-42412c32ed61.png)
 
 ### Изменить параметры файла yaml-агента, определить какие параметры и как влияют на обучение модели. Описать результаты, выведенные в TensorBoard.
 
@@ -168,21 +155,4 @@ pip install tensorflow
 - ELO - показывает силу сети.
 
 ## Выводы
-
-
-
-0.8
-![image](https://user-images.githubusercontent.com/114469025/208625755-b5f64c92-3ce9-4f81-9249-e4815063d1d9.png)
-![image](https://user-images.githubusercontent.com/114469025/208625796-516505e2-078e-4bb8-9399-076c785b43b1.png)
-
-hidden_units: 128 - 100
-![image](https://user-images.githubusercontent.com/114469025/208626323-4b1c9152-c042-4b57-84cb-52a6a9a2e64a.png)
-
-![image](https://user-images.githubusercontent.com/114469025/208626288-80c5a3d4-d222-4922-8a82-e0612cd14fae.png)
-
-
-Изменим параметр num_layers с 2 на 20:
-
-Изменим параметр batch_size с 1024 на 2048:
-
-![image](https://user-images.githubusercontent.com/114469025/208626997-9b0d6882-e167-4293-b058-182db9718b1f.png)
+В ходе выполнения данной лабораторной работы, я научилась интегрировать экономическую систему в проект Unity в связке с MLAgent и наблюдать за результатами его обучения при изменении параметров в Yaml файле, а также научилась создавать графики на основе результатов обучения MLAgent и анализировать их.
