@@ -97,7 +97,6 @@ behaviors:
 pip install tensorflow
 ```
 ![image](https://user-images.githubusercontent.com/114469025/208482921-a6fa8681-5d90-403e-ac34-217d7d43da7c.png)
-![image](https://user-images.githubusercontent.com/114469025/208482952-c0be5dbf-85a0-4ccb-b234-7810805239e3.png)
 
 - После завершения установки запустим TensorBoard и рассмотрим полученные графики:
 
@@ -130,6 +129,8 @@ pip install tensorflow
 Получаем графики:
 
 ![image_19](https://user-images.githubusercontent.com/103308669/204299228-cb51112e-8b51-4e8a-8751-c84a8fb02ad0.png)
+
+При изменении всех перечисленных значений график Entropy либо растет быстрее чем при оригинальных значениях, либо не изменяется, как и график Extrinsic Value Estimate.  Также можно заметить, что при изменении параметра batch_size уменьшается график вознаграждений. Остальные графики либо не меняются, либо меняются незначительно. 
 
 ## Задание 2
 ### Опишите результаты, выведенные в TensorBoard.
