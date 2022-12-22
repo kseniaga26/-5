@@ -72,6 +72,7 @@ behaviors:
 - Далее запускаем обучение модели:
 
 ![image](https://user-images.githubusercontent.com/114469025/208480239-9cedf40c-0e9d-4a1b-9a12-dc7761f253e4.png)
+![image_3](https://user-images.githubusercontent.com/103308669/204274944-506fe9d9-d66a-40f8-bf8e-e0a58f3cb221.png)
 
 Шарик начинает двигаться от одного кубика к другому.
 
@@ -156,9 +157,3 @@ pip install tensorflow
 
 ## Выводы
 В ходе выполнения данной лабораторной работы, я научилась интегрировать экономическую систему в проект Unity в связке с MLAgent и наблюдать за результатами его обучения при изменении параметров в Yaml файле, а также научилась создавать графики на основе результатов обучения MLAgent и анализировать их.
-
-![image](https://user-images.githubusercontent.com/114469025/208624313-4d958c00-eb23-4c47-b02f-1e46c6b419e9.png)
-
-![image](https://user-images.githubusercontent.com/114469025/208624517-600fa486-d226-4d35-8b9b-fd798142807e.png)
-![image](https://user-images.githubusercontent.com/114469025/208624906-8fe3e942-4684-4508-9b0a-62ac6547fdd2.png)
-![image](https://user-images.githubusercontent.com/114469025/208624936-8650bc1f-97ca-44ef-b75e-4b5bb7ccf866.png)
