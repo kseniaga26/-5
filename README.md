@@ -104,6 +104,16 @@ pip install tensorflow
 ![image](https://user-images.githubusercontent.com/114469025/208483541-8039c8e7-8d6d-49ee-9054-d22eb7c0ea63.png)
 ![image](https://user-images.githubusercontent.com/114469025/208483651-851055b5-fb8d-473e-9ddb-25fac46f6998.png)
 ![image](https://user-images.githubusercontent.com/114469025/208483884-5b2f9ff6-2bca-42df-a68b-098d3894361e.png)
+-----
+
+![image](https://user-images.githubusercontent.com/114469025/208624313-4d958c00-eb23-4c47-b02f-1e46c6b419e9.png)
+
+![image](https://user-images.githubusercontent.com/114469025/208624517-600fa486-d226-4d35-8b9b-fd798142807e.png)
+![image](https://user-images.githubusercontent.com/114469025/208624906-8fe3e942-4684-4508-9b0a-62ac6547fdd2.png)
+![image](https://user-images.githubusercontent.com/114469025/208624936-8650bc1f-97ca-44ef-b75e-4b5bb7ccf866.png)
+
+![image](https://user-images.githubusercontent.com/114469025/208625186-eef2e2b4-3d0c-4a5a-9a4b-ed3ca7bb43f3.png)
+![image](https://user-images.githubusercontent.com/114469025/208625248-ea2d66d2-418a-4cba-9605-5a457023716e.png)
 
 ### Изменить параметры файла yaml-агента, определить какие параметры и как влияют на обучение модели. Описать результаты, выведенные в TensorBoard.
 
@@ -160,14 +170,6 @@ pip install tensorflow
 ## Выводы
 
 
-![image](https://user-images.githubusercontent.com/114469025/208624313-4d958c00-eb23-4c47-b02f-1e46c6b419e9.png)
-
-![image](https://user-images.githubusercontent.com/114469025/208624517-600fa486-d226-4d35-8b9b-fd798142807e.png)
-![image](https://user-images.githubusercontent.com/114469025/208624906-8fe3e942-4684-4508-9b0a-62ac6547fdd2.png)
-![image](https://user-images.githubusercontent.com/114469025/208624936-8650bc1f-97ca-44ef-b75e-4b5bb7ccf866.png)
-
-![image](https://user-images.githubusercontent.com/114469025/208625186-eef2e2b4-3d0c-4a5a-9a4b-ed3ca7bb43f3.png)
-![image](https://user-images.githubusercontent.com/114469025/208625248-ea2d66d2-418a-4cba-9605-5a457023716e.png)
 
 0.8
 ![image](https://user-images.githubusercontent.com/114469025/208625755-b5f64c92-3ce9-4f81-9249-e4815063d1d9.png)
